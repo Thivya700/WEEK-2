@@ -15,7 +15,8 @@ class LifeInCampus {
 		System.out.println("5.00 pm : Do exercise and play outdoor games");
 		System.out.println("7.30 pm : Take dinner");
 		System.out.println("8.00 pm : Chill time with friends and family");
-		System.out.println("10:00 pm : Prayer and go to bed");
+		System.out.println("8.30 pm : Do programming");
+		System.out.println("10:30 pm : Prayer and go to bed");
 
 	}
 
